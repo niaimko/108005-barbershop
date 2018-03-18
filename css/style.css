@@ -440,3 +440,43 @@ body {
 
   list-style: none;
 }
+
+.features {
+  margin-bottom: 80px;
+}
+
+.features-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.feature-item {
+  width: 300px;
+}
+
+.index-columns {
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 80px;
+  margin-bottom: 35px;
+}
+
+.news {
+  width: 380px;
+}
+
+.gallery {
+  width: 300px;
+}
+
+.contacts {
+  width: 380px;
+}
+
+.appointment {
+  width: 300px;
+}
