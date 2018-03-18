@@ -480,3 +480,28 @@ body {
 .appointment {
   width: 300px;
 }
+
+.main-footer {
+  padding: 60px 0;
+  margin-top: 65px;
+}
+
+.main-footer .container {
+  display: flex;
+}
+
+.footer-contacts {
+  width: 320px;
+  margin: 0;
+  margin-right: 80px;
+}
+
+.footer-social {
+  width: 145px;
+}
+
+.footer-copyright {
+  width: 150px;
+  margin: 0;
+  margin-left: auto;
+}
